@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariam</h1>
 <h3 align="center">Studying for my Full Stack Web Development diploma from Code Institute</h3>
 
-- 🌱 I’m currently learning **jQuery**
+- 🌱 I’m currently learning about **Database Management Systems**
 
 - 📁 My completed projects:
 
