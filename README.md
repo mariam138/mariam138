@@ -11,6 +11,8 @@
 
   - Portfolio Project 3 (Python): [Sea Conquest](https://sea-conquest-b465976776fd.herokuapp.com/)
 
+  - Portfolio Project 4 (HTML, CSS, JavaScript, Python, Django, Bootstrap) :[Globetrotter's Gazette](https://globe-gazette-28c6be72f0db.herokuapp.com/)
+
 - 📫 How to reach me **mar.ayoub98@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
