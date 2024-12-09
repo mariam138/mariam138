@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariam</h1>
 <h3 align="center">Studying for my Full Stack Web Development diploma from Code Institute</h3>
 
-- 🌱 I’m currently learning about **React and Django REST Framework**
+- 🌱 I’m currently learning about **TypeScript**
 
 - 📁 My completed projects:
 
@@ -11,7 +11,9 @@
 
   - Portfolio Project 3 (Python): [Sea Conquest](https://sea-conquest-b465976776fd.herokuapp.com/)
 
-  - Portfolio Project 4 (HTML, CSS, JavaScript, Python, Django, Bootstrap) :[Globetrotter's Gazette](https://globe-gazette-28c6be72f0db.herokuapp.com/)
+  - Portfolio Project 4 (HTML, CSS, JavaScript, Python, Django, Bootstrap) : [Globetrotter's Gazette](https://globe-gazette-28c6be72f0db.herokuapp.com/)
+ 
+  - Portfolio Project 5 (HTML, CSS, JavaScript, Python, Bootstrap, React, Django REST Framework) : [Syncora API](https://syncora-api-ecc74194384c.herokuapp.com/); [Syncora](https://syncora-react-8ad6bbfd3f41.herokuapp.com/)
 
 - 📫 How to reach me **mar.ayoub98@gmail.com**
 
