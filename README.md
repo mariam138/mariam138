@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariam</h1>
 <h3 align="center">Studying for my Full Stack Web Development diploma from Code Institute</h3>
 
-- 🌱 I’m currently learning **TypeScript** and **Next.js**
+- 🌱 I’m currently learning about **NodeJS**
 
 - 📁 My completed projects:
 
