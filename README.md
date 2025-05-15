@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariam</h1>
-<h3 align="center">Studying for my Full Stack Web Development diploma from Code Institute</h3>
+<h2 align="center">Junior Full Stack Developer</h2>
+<h3 align="center">HTML | CSS | JavaScript | Python</h3>
 
 - 🌱 I’m currently learning about **NodeJS**
 
