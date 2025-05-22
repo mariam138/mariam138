@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariam</h1>
 <h2 align="center">Junior Full Stack Developer</h2>
-<h3 align="center">HTML | CSS | JavaScript | Python</h3>
+<h3 align="center">JavaScript | Python | React | Django | Django REST | Node.js</h3>
 
 - 🌱 I’m currently learning about **NodeJS**
 
