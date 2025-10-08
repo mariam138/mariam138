@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mariam</h1>
-<h2 align="center">Junior Full Stack Developer</h2>
+<h2 align="center">Junior Software Engineer</h2>
 <h3 align="center">JavaScript | Python | React | Django | Django REST | Node.js</h3>
 
-- 🌱 I’m currently learning about **NodeJS**
+- 🌱 I’m currently learning about **NodeJS, Express and MongoDB**
 
 - 📁 My completed projects:
 
